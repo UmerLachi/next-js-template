@@ -1,0 +1,12 @@
+@import 'variables';
+@import 'bs-override';
+
+body {
+  font-family: 'Rubik', sans-serif;
+  background: $bg-color;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
